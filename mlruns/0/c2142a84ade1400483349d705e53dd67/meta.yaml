@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/MLFlow-And-Dagshub-Experiment/mlruns/0/c2142a84ade1400483349d705e53dd67/artifacts
+end_time: 1690564446664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2142a84ade1400483349d705e53dd67
+run_name: orderly-ape-309
+run_uuid: c2142a84ade1400483349d705e53dd67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690564443856
+status: 3
+tags: []
+user_id: prajw
